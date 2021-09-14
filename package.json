@@ -1,0 +1,16 @@
+{
+  "name": "grunt_test01",
+  "version": "1.0.0",
+  "description": "hA 210913 grunt first test",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LL",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.4.1",
+    "grunt-contrib-jshint": "^3.0.0",
+    "grunt-contrib-uglify": "^5.0.1"
+  }
+}
